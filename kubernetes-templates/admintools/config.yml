@@ -1,7 +1,7 @@
-name: AdminTools 
- description: this is description
- version: 0
- category: AdminTools
- maintainer: Sam  
- license: # The license 
- projectURL: # A URL related to the catalog entry
+name: "AdminTools" 
+description: "this is description"
+version: 0
+category: "AdminTools"
+maintainer: "Sam"  
+license: "" 
+projectURL: ""
